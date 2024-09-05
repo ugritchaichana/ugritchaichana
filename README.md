@@ -68,10 +68,3 @@ I'm Booth
 </p>
 
 ---
-
-### 🏆 GitHub Stats
-
-<p align="left">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=boothugrit&show_icons=true&hide_border=true" alt="Booth's GitHub stats" />
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boothugrit&layout=compact" alt="Top languages" />
-</p>
