@@ -2,7 +2,7 @@
 
 ## 🌐 Web Developer
 
-- 🖥️ Check out my portfolio: [MyPortfolio](https://ugrit-chaichana-booth.web.app/)
+- 🖥️ Check out my portfolio: [MyPortfolio](https://goldpredictect.web.app)
 - 📧 Feel free to contact me: [ugritchaichana13@gmail.com](mailto:ugritchaichana13@gmail.com)
 
 ---
